@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forever E-commerce Website
 
 Forever is a full-featured e-commerce platform built using the MERN stack and styled with Tailwind CSS. It includes a customer-facing frontend, an admin panel for managing the store, and a backend to handle data and API requests.
@@ -103,3 +104,7 @@ Feel free to open issues or submit pull requests to contribute to this project!
 ![Add Product](./frontend/public/a2.png)
 ![Lists](./frontend/public/a3.png)
 ![Orders](./frontend/public/a4.png)
+=======
+# e-commerce
+A full-stack e-commerce web application built using Next.js, React.js, MongoDB, Express.js, and Node.js. The platform provides seamless user experience with user authentication, and a secure shopping cart system.
+>>>>>>> 3d1932d026cb3ff5932e428721f33dfaaa785349
